@@ -1,0 +1,1331 @@
+[33mcommit 74227ffac12c596a99b6978e82ef47f491bc8396[m
+Author: tidianeVm <camara.tidiane@gmail.com>
+Date:   Mon Nov 2 15:59:43 2015 +0100
+
+    commit master
+
+[33mcommit d9d995701db1996b6d576c0f74bc44cec8fd2658[m
+Author: tidianeVm <camara.tidiane@gmail.com>
+Date:   Mon Nov 2 15:44:18 2015 +0100
+
+    commit 2
+
+[33mcommit cbd3da113cc81f3cfe5b72f0bf707d47c1782732[m
+Author: tidianeVm <camara.tidiane@gmail.com>
+Date:   Mon Nov 2 15:31:51 2015 +0100
+
+    correctif
+
+[33mcommit c031139e57b4076601c81694fce845bb288290ca[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Aug 7 10:31:22 2015 +0200
+
+    [doc] Removed deprecated methods in doc, fixes #54
+
+[33mcommit 329f3080ebbf92c6e0483c2d1ae008e6538ea2db[m
+Merge: 93880c3 592e123
+Author: Elie <eliecharra@users.noreply.github.com>
+Date:   Fri Aug 7 10:22:09 2015 +0200
+
+    Merge pull request #48 from snovichkov/master
+    
+    Added full short syntax to add fields to grid
+
+[33mcommit 592e1232d607d405058681a2570b8e82d429b3e1[m
+Author: snovichkov <snovichkov@issart.com>
+Date:   Tue Jun 2 00:50:31 2015 +0700
+
+    Update the readme with the new syntax
+
+[33mcommit 146fa09b80eb834a74fab2ae4a26ad4e4580b5a3[m
+Author: snovichkov <snovichkov@issart.com>
+Date:   Fri Apr 3 13:57:00 2015 +0700
+
+    Added test case
+
+[33mcommit 309f97232af2676d5fc06fac9f1b14dee00bef89[m
+Author: snovichkov <snovichkov@issart.com>
+Date:   Mon Mar 23 11:55:11 2015 +0700
+
+    Added full short syntax to add fields to grid
+
+[33mcommit 93880c393757e9f8e915421d56fee55f15316a95[m
+Merge: 1b1dae7 89e417f
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed Apr 15 14:10:42 2015 +0200
+
+    Merge pull request #51 from b-b3rn4rd/master
+    
+    Add a row class block
+
+[33mcommit 89e417f12ce68a7a5831cd5af1a8f12a9bf480d8[m
+Author: Bernard Baltrusaitis <bernard@runawaylover.info>
+Date:   Mon Apr 13 09:10:12 2015 +1000
+
+    [#50] added row class block & updated grid extended use doc
+    
+    * Revert "[#50] add row class block"
+    
+    * renamed block row_class to kit_grid_row_class
+    
+    * updated extended use doc
+
+[33mcommit 8b6c8d82750be8a7789fb49420a35bb799a60ea7[m
+Author: Bernard Baltrusaitis <bernard@runawaylover.info>
+Date:   Thu Apr 9 20:14:49 2015 +1000
+
+    [#50] add row class block
+
+[33mcommit 1b1dae749c8d4de2cc8a9d8bacb074a2333d5e93[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 23:33:21 2015 +0200
+
+    Added missing newlines chars at end of files (insight fix)
+
+[33mcommit 9ebffa9c385c1fd4dc30b20bf275bdd1ae445ea0[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 23:31:21 2015 +0200
+
+    Fix missing return
+
+[33mcommit f604d152b9e60acf308e1d576af0a7f678d38f42[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 23:25:39 2015 +0200
+
+    Fix line break
+
+[33mcommit 3ee5ab9caa7afb476fb1feb78f2655f8e1e51b84[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 23:24:18 2015 +0200
+
+    Remove useless include
+
+[33mcommit 2fb1b1245ef7ee8a22c10fbbc8e9aed8c7dd0d93[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 23:22:57 2015 +0200
+
+    Fix bool strict comparison
+
+[33mcommit 3ffcce6ad1bd549950dc636441c0b8473d538446[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 17:50:52 2015 +0200
+
+    Fixed travis.yml
+
+[33mcommit af9d0c77853f461d1f60be5a863e84f685cd7dfc[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Apr 3 15:52:14 2015 +0200
+
+    Fix Compatibility problem with hydrateRowData() #49 (updated to support doctrine 2.5)
+
+[33mcommit a75b36cc526c542d376b8c905040f71282d11472[m
+Merge: 320844b 573aaa8
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Fri Mar 27 09:08:40 2015 +0100
+
+    Merge pull request #47 from kitpages/normalizer_issue_#46
+    
+    Normalizer issue #46
+
+[33mcommit 573aaa8f0c8cd31503e7471383d884c81ea280cd[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Wed Mar 18 10:08:39 2015 +0100
+
+    Extends AbstractHydrator directly
+
+[33mcommit 18092612dcf2286e74f522f7d77735bc50546d7e[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Tue Mar 17 13:22:40 2015 +0100
+
+    Fixed composer dev dependencies
+
+[33mcommit c0dbe1cb62cc18ffbc3c10b889540cf64737bde7[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Mon Mar 16 20:01:25 2015 +0100
+
+    Added Hydrator tests
+
+[33mcommit 0c805ee9dbeebcc6312ec4dc7756774a49cdf438[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Mon Mar 16 20:01:02 2015 +0100
+
+    Replace Custom hydrator
+
+[33mcommit 1242ea1e59785f3eee8fd3c206f69e437827476a[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Mon Mar 16 19:03:37 2015 +0100
+
+    PSR fix
+
+[33mcommit 6a997a9e4c107fc20931a53266e537b2a7254847[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 18:51:52 2015 +0100
+
+    Fix PHP 5.3 compatibility
+
+[33mcommit 89a16b854c08664b2d467d9bac43331b4a49b8cc[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 18:40:15 2015 +0100
+
+    Hydrator in config
+
+[33mcommit d2e7d4bda3094c41550d1966d30509f6897a3838[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 17:19:40 2015 +0100
+
+    Fix missing const usage
+
+[33mcommit dc895d0362197687eb77b062ed73346ef6353d02[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 17:18:15 2015 +0100
+
+    Using custom hydrator
+
+[33mcommit ba9210758fedb24df69bc51e39007740a549d1d0[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 16:25:17 2015 +0100
+
+    Simplified standard normalizer
+
+[33mcommit 66bfd1c4400553b17982951f8a9f6121746bd847[m
+Author: Elie CHARRA <elie.charra@kitpages.fr>
+Date:   Fri Mar 13 14:11:31 2015 +0100
+
+    Removed dump in tests
+
+[33mcommit 320844be6ecb41ee7fc1e60aac562caae3516f0f[m
+Merge: bd23eb4 72c3076
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Mon Jan 26 11:40:41 2015 +0100
+
+    Merge pull request #43 from b-b3rn4rd/master
+    
+    [#42], [#44] Replace hardcoded paginator template, add value attr to the search field
+
+[33mcommit 72c3076b2272d5b48fcb29a25110654ec8149e13[m
+Author: Bernard Baltrusaitis <bernard@runawaylover.info>
+Date:   Sun Jan 25 12:23:30 2015 +1100
+
+    [#44] add value attribute to the seach field
+
+[33mcommit a532cbee25a1aa51cf1cb9d93f1c666dd4f5004b[m
+Author: Bernard Baltrusaitis <bernard@runawaylover.info>
+Date:   Sun Jan 25 11:21:24 2015 +1100
+
+    [#42] Replace hardcoded paginator template
+
+[33mcommit bd23eb4795f235432d631503bf417d0a3ec4e525[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Dec 19 14:15:13 2014 +0100
+
+    version.md updated for tag 2.4.x
+
+[33mcommit e1319a7abc8bff6c4153d47fe7c1a4775777504e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Dec 19 14:13:47 2014 +0100
+
+    new : bootstrap3 twig templates
+
+[33mcommit 3243e78a5f358464a5d0de171145ff8fa239caa6[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Dec 19 13:21:41 2014 +0100
+
+    fix doc : standalone paginator documentation
+
+[33mcommit 80ec4aebd997f7b48f2af60c54c99ff0a5ea988c[m
+Merge: 58fdbcc f701e73
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Fri Dec 5 14:35:54 2014 +0100
+
+    Merge pull request #39 from Prezent/no-data-message
+    
+    make no-data message overwritable
+
+[33mcommit f701e735caf0f140c222590551133213ab17ff07[m
+Author: Robert-Jan Bijl <robert-jan@prezent.nl>
+Date:   Fri Dec 5 13:30:28 2014 +0100
+
+    make no-data message overwritable
+
+[33mcommit 58fdbcc37bf7adc550324a6d02fa783aefb2ed43[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Nov 10 13:10:29 2014 +0100
+
+    fix for hierarchical joins (more than one level)
+
+[33mcommit bc0597482c6bf426262d2bbc7406137d4dd1ce8a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Nov 10 11:30:49 2014 +0100
+
+    grid manager updated
+
+[33mcommit 03193c8f0b453399d303f8aeea988535058d7082[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Nov 7 16:20:08 2014 +0100
+
+    Fix translation for empty grid
+
+[33mcommit 242485d24e029dcb858fbc9867ba3e4497db80a0[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Nov 7 14:29:54 2014 +0100
+
+    preparation tag v2.3.0
+
+[33mcommit 1784b1026c13157a251e79c4f8a7bc3d1a52ba85[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Nov 7 14:24:02 2014 +0100
+
+    fix subrequest handling
+
+[33mcommit 5fbbf73effaa5a7af76cd747e7ba486c6aae344c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Sep 11 14:55:27 2014 +0200
+
+    small fix in documentation
+
+[33mcommit c7d6c21943fbb6b30c8cbcf0dd2a7548c5145d6e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Sep 10 18:34:59 2014 +0200
+
+    preparation for tag v2.2
+
+[33mcommit d011d4da7d7a9d029b35a4cf103a463974a3ddde[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Sep 10 18:28:24 2014 +0200
+
+    documentation fixes
+
+[33mcommit f0bea19b6fa3d4d42b55974f69e47fe452288de5[m
+Merge: e930454 780c990
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed Sep 10 14:25:41 2014 +0200
+
+    Merge pull request #34 from snovichkov/master
+    
+    js and views little fixes
+
+[33mcommit 780c9901d51ddfc7942c4992bc120e10dac8a40f[m
+Author: snovichkov <novichkovsergey@yandex.ru>
+Date:   Sun Aug 24 22:57:49 2014 +0800
+
+    js and views little fixes
+
+[33mcommit e9304545f9d045dabe746339e272277e78b1b7fe[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Jul 28 11:29:09 2014 +0200
+
+    version for v2.1.1
+
+[33mcommit 452c5a6664801fa06a153bd0c118c46e50303c84[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Jul 28 11:27:54 2014 +0200
+
+    tiny fix in translations
+
+[33mcommit c74431fd5a8b67f8a0156fdb7d02f72654750e8c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Jul 21 18:16:22 2014 +0200
+
+    you can chain the formatValueCallback and the event system
+
+[33mcommit 11c4273f981712f4531ff3bef26154cb042d7440[m
+Merge: 1fad7d3 37a7ccb
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue Jul 15 15:49:50 2014 +0200
+
+    Merge pull request #32 from mfsirameshk/patch-1
+    
+    Corrected the grid manager service name in the doc
+
+[33mcommit 37a7ccbc9be1021ad2b15d5c4e3402b598b0a91c[m
+Author: Ramesh Kedlaya <rameshk@mindfiresolutions.com>
+Date:   Tue Jul 15 18:53:42 2014 +0530
+
+    Corrected the grid manager service name in the doc
+    
+    Corrected the grid manager service name in the doc
+
+[33mcommit 1fad7d394baaeaa5f6d2423de5dc12eac2a5c0ec[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 8 11:39:26 2014 +0200
+
+    sensiolabs insight logo
+
+[33mcommit 710e83a5e93d01a5abce1699291e89eeb2c10b51[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 8 11:27:37 2014 +0200
+
+    cleanup remove unused statement
+
+[33mcommit 01661f29629dbc0a96e954395e39b5eabba9d39c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 8 11:26:21 2014 +0200
+
+    removed commented code
+
+[33mcommit 3bc55add9e164716e7c16b020088fd23f721a6f6[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 8 11:24:42 2014 +0200
+
+    removed isDebug (already deprecated in v1)
+
+[33mcommit 68bea0ab7da41d948f508fb7a1e915eb0f693059[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 8 10:35:21 2014 +0200
+
+    docs for v2.x
+
+[33mcommit 0863eb6e9db7962cd2adc174e8b5847a6a648f0e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 4 17:02:39 2014 +0200
+
+    extra data in fields
+
+[33mcommit 521d57565c546eb094bc6916ccc57531929dac33[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 4 16:55:57 2014 +0200
+
+    extra data in fields
+
+[33mcommit 47e0eb13dcbdb2a4ee3c1a39dd0a46eff41ee986[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 4 11:56:50 2014 +0200
+
+    fix : using standard normalizer
+
+[33mcommit b983e12ca88aa213c1b77f08c903a42c54324a84[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 4 11:11:28 2014 +0200
+
+    changed interface of getGrid
+
+[33mcommit 6216dc5bf39120cc3e78c53c62ae96ca064fec03[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 4 08:56:47 2014 +0200
+
+    Update for V2
+
+[33mcommit 8ddb23cc68ffb92380ea1c6dc943ada48b69e9d9[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 21:21:05 2014 +0200
+
+    add translations with keys
+
+[33mcommit 4bc6b707a4421d45e9c8a9009dc9e8dba2987522[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 21:20:44 2014 +0200
+
+    removed app/cache from repository
+
+[33mcommit ea794d86aaad5548cfcb242d92a71ca10c40a493[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 20:47:18 2014 +0200
+
+    fix for issue https://github.com/kitpages/KitpagesDataGridBundle/issues/30
+
+[33mcommit d55015a6677b4631f1449ff44549a7a4ab24c885[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 17:54:24 2014 +0200
+
+    new normalizer
+
+[33mcommit 3b9e45d13466d0bb81d757ae1ad481d8334c73fd[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 14:27:14 2014 +0200
+
+    default values in paginator
+
+[33mcommit 76a986d2775d66fbea9a3a02b2de5769c1367a8a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 13:57:55 2014 +0200
+
+    grid default twig
+
+[33mcommit 1ffec19bf32a5208ddbb93e60f226e04d84c7b9a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 11:12:20 2014 +0200
+
+    doc
+
+[33mcommit 667f884928ccfb7d0cd6662b26ed0e822ca0155e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 11:12:09 2014 +0200
+
+    normalizer system
+
+[33mcommit 9e501884645a996f9afece2e886b54411991ca1c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 11:11:44 2014 +0200
+
+    fix in phpdoc
+
+[33mcommit 01304e79961d65f785f7368bd9bd89cc2dc755e5[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Jul 3 10:41:33 2014 +0200
+
+    Major refactor : paginator and grid separation, renaming of namespaces
+
+[33mcommit 6ef9581fde127d1a86d1a4d2b0080c63e54ed2d5[m
+Author: Damien Lelievre <damien.lelievre@kitpages.fr>
+Date:   Wed Jun 11 17:18:21 2014 +0200
+
+    (minor) typo in doc/20-StandalonePaginator
+
+[33mcommit 37b21874c962ed3b6917a9c1bfd0a32c90bd5ed1[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Jun 9 20:50:12 2014 +0200
+
+    travis-ci updated after end of pear
+
+[33mcommit 62d492e717b5637b96a56b4ab88edb954ec35a35[m
+Merge: 60969cf 4899ec5
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Mon Jun 9 20:34:53 2014 +0200
+
+    Merge pull request #31 from Daml/fixtyporeadme
+    
+    (minor) Readme: fix typo + code example
+
+[33mcommit 4899ec53324464404377a27853eb993e387cb771[m
+Author: Damien Lelievre <damien.lelievre@kitpages.fr>
+Date:   Mon Jun 9 18:27:43 2014 +0200
+
+    (minor) Readme: fix typo + code example
+
+[33mcommit 60969cfb245174965b447ddfee051f11d1b79fa3[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Oct 30 13:33:49 2013 +0100
+
+    fix after init pb with datagrid
+
+[33mcommit dbbb7163b29400dc6f0a150c0d88c7852e84602e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Sun Oct 27 22:02:13 2013 +0100
+
+    renamed debug mode
+
+[33mcommit 6c02a57db026680d4abefbf58d7b894fa23876bd[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Sun Oct 27 21:53:21 2013 +0100
+
+    small fixes for sensiolabs insight
+
+[33mcommit 0876686cf2ce309763ed0dfbfbfab52f779cd4b1[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Oct 15 11:40:45 2013 +0200
+
+    new version of previous modification without the BC Break (separate <script> tag and js code)
+
+[33mcommit 7591d87c974b0f49762dc7b6a8a4aa5ea1f66da0[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Oct 15 11:33:01 2013 +0200
+
+    moved script tag outside the datagrid
+
+[33mcommit 31e1a3bd54703fcb2b13daca1b661787fa24acd0[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Oct 15 11:15:04 2013 +0200
+
+    new unit test on tables in URL
+
+[33mcommit bff68297c6f0208a71a1c492b6e13089fd47e699[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Oct 15 11:10:42 2013 +0200
+
+    allows to have a query string with an array
+
+[33mcommit 52a36aacb6eb70c1a2eb9b7d25c130c20cd70001[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue Sep 17 15:47:49 2013 +0200
+
+    typo in doc
+
+[33mcommit 6d0f5784246b379fcaa3200af037a600978f39d7[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Sep 16 14:39:04 2013 +0200
+
+    fix for selectors with null or false values
+
+[33mcommit 38f7eca41e95a05d0d3f97629b2099ef6f8779c7[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Sep 16 14:38:46 2013 +0200
+
+    version correction
+
+[33mcommit 77729311ddf2b8969dbaa7c06b16fbe66128b826[m
+Author: Sebastien Lefebvre <sebastien.lefebvre@kitpages.fr>
+Date:   Thu Jun 13 16:05:55 2013 +0200
+
+    update Twig bootstrap for selector
+
+[33mcommit 68aaf9cc1d71944cd2bd93992f3c1994f338865f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Jun 12 14:06:17 2013 +0200
+
+    preparation tag v1.10.0
+
+[33mcommit ebdfc1fdbafec5b0038a14d6a4376ce3d3b10500[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Jun 12 13:48:24 2013 +0200
+
+    refactor javascript in grid.html.twig
+
+[33mcommit 1271e0361336a2353e3d863c438dd07048592bcd[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Jun 12 12:58:30 2013 +0200
+
+    [fix] fix in url encoding in javascript
+
+[33mcommit 0150652a1e6b99ff87ed74fb0384abdbb842e2f2[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Jun 12 12:46:45 2013 +0200
+
+    [fix] url encoding/decoding for filters
+
+[33mcommit 4ad3e22e702e19b1f4c32d1b15e869e78e825ade[m
+Author: Sebastien Lefebvre <sebastien.lefebvre@kitpages.fr>
+Date:   Tue Jun 4 15:52:43 2013 +0200
+
+    no display grid selector if selectorList = null
+
+[33mcommit 84eebaefcde1fbf0b468c221a2506b9efc8aaf10[m
+Author: Sebastien Lefebvre <sebastien.lefebvre@kitpages.fr>
+Date:   Tue May 28 17:43:28 2013 +0200
+
+    remove the selector when you clicked on the button selected
+
+[33mcommit 7d0edaadfa851f100b9c2ddd19a3d259e48895d4[m
+Author: Sebastien Lefebvre <sebastien.lefebvre@kitpages.fr>
+Date:   Tue May 28 16:11:37 2013 +0200
+
+    fix bug : init selector field and value
+
+[33mcommit e65ff55455ace0a8f32d9ab091f0da77bef49e18[m
+Author: Sebastien Lefebvre <sebastien.lefebvre@kitpages.fr>
+Date:   Tue May 28 15:42:36 2013 +0200
+
+    add buttons to select (filter)
+
+[33mcommit db5668f8f5403f87c9418cd17116c2d29ef591fa[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 23 21:39:26 2013 +0200
+
+    preparing v1.8.0
+
+[33mcommit 219e563c5e203d82c28de3d1bf9d5d8bfbd4146b[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 23 21:38:21 2013 +0200
+
+    add twitter bootstrap datagrid
+
+[33mcommit 798920bfd83f7b298a3cda58e19bfcf20655e50d[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 22 12:16:28 2013 +0200
+
+    tag 1.7 preparation
+
+[33mcommit 3e635e7224b729fe13628146bd1fbeaa8152e3b1[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 22 12:12:08 2013 +0200
+
+    add documentation
+
+[33mcommit 3c93d28f7016258db7d35a5aeba6c64c75235c04[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 22 12:06:21 2013 +0200
+
+    add category and nullIfNotExists flags
+
+[33mcommit 17c2f1b224018af28a468a07a0c9cc3474588957[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 2 10:47:12 2013 +0200
+
+    new version
+
+[33mcommit d0237dff804e34fb6e8001365742be57f5f96f40[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 2 10:44:50 2013 +0200
+
+    fix for issue is_array (issue #18)
+    
+    https://github.com/kitpages/KitpagesDataGridBundle/issues/18
+    Can't reproduce bug...
+
+[33mcommit 8e6168548548adcfb4b7ccf6bd71ec459226969c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 15:14:35 2013 +0200
+
+    preparation for tag 1.6
+
+[33mcommit d09d28d16f9956805c63bb92d9522a2d002d5e94[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 14:40:20 2013 +0200
+
+    small doc fix
+
+[33mcommit 2dcf6e4dd94b6d3f013ea51bff877c6fbecb480d[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 14:37:11 2013 +0200
+
+    event modifications
+
+[33mcommit 20b0dec85a8b8b9aa724a92ee50fc3c7cd31c56b[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 12:05:26 2013 +0200
+
+    documentation for new events
+
+[33mcommit 300ef69164b399ddcfddc6b0bce38f314c0158e7[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 11:58:07 2013 +0200
+
+    Event on conversion
+
+[33mcommit 69310385d74e9ddc07dad369ccc1facca7f23e12[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 10:56:42 2013 +0200
+
+    version file updated for tag 1.5
+
+[33mcommit 38ef42992151ed63cff457edfb6415e46f1d1d1e[m
+Merge: 2301660 dc0af36
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 10:47:51 2013 +0200
+
+    Merge branch 'HEAD' of git@github.com:kitpages/KitpagesDataGridBundle.git
+
+[33mcommit 23016608e408cc5ed3e8d0fe7dd1d52b8dad44c6[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 9 10:47:26 2013 +0200
+
+    added a lot of unit tests on the Grid class
+
+[33mcommit dc0af366a5a43aba712a94ca2340ffbc7a4c032a[m
+Merge: cdc7938 edcc5a7
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue Apr 9 01:22:33 2013 -0700
+
+    Merge pull request #17 from imishchenko/patch-1
+    
+    Typo in doc
+
+[33mcommit edcc5a7fdcdd5dda90d2e751c723cebd8c9accb6[m
+Author: Iakov Mishchenko <iakov.mishchenko@mrcplast.com>
+Date:   Sat Apr 6 19:48:31 2013 +0300
+
+    Typo
+
+[33mcommit cdc7938aee9e687a10ade9c5ba55f03cb8ee0fab[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Apr 4 17:40:24 2013 +0200
+
+    help message
+
+[33mcommit 190469f2998c324317e8f749d31030d36b51a21f[m
+Merge: fecafec 6389ff2
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Thu Apr 4 08:36:17 2013 -0700
+
+    Merge pull request #13 from radmar/master
+    
+    Remove orderBy DQL part for count query + Fix displayGridValue
+
+[33mcommit fecafecce6288c05c1ed8f4064903faa30c5a685[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Apr 3 14:33:03 2013 +0200
+
+    debug presentation
+
+[33mcommit 8c34f164c90d7c9dc170b5a062ed930cad25e458[m
+Merge: d73862a 991a3ed
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Apr 3 14:28:45 2013 +0200
+
+    Merge branch 'HEAD' of git@github.com:kitpages/KitpagesDataGridBundle.git
+
+[33mcommit d73862a79b75424e16f52c2dbcdee6bd09f96be8[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Apr 3 14:27:55 2013 +0200
+
+    remove dependency to dump() twig
+
+[33mcommit 991a3ed6e1e86bd29e2042f0078e89df47050673[m
+Merge: a299145 17c00ea
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed Apr 3 00:35:10 2013 -0700
+
+    Merge pull request #16 from choomz/master
+    
+    Update docs for 1-n relationships
+
+[33mcommit 17c00ea95b11b1d60f657d7cce53c2b74a0b3a8b[m
+Author: Valentin Ferriere <valentin.ferriere@elokence.com>
+Date:   Tue Apr 2 18:35:58 2013 +0200
+
+    update doc for 1-n relationships
+
+[33mcommit a299145f1df82a212f6d001fa5c85de8354a922a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Apr 2 16:19:37 2013 +0200
+
+    debug system
+
+[33mcommit 1ffbb198522fbabb80a3fc4862e2d8260f7abe0a[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Tue Mar 12 10:49:31 2013 +0100
+
+    version file updated for tag 1.4
+
+[33mcommit 650c360fafd8e8d53176b0d0e8c40dc7a0a31c99[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Tue Mar 12 10:43:30 2013 +0100
+
+    changed travis-ci build status picto in readme
+
+[33mcommit d35f96e7237b12c913241862853e9ff043a732e5[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Tue Mar 12 10:41:47 2013 +0100
+
+    links updated in doc
+
+[33mcommit c967420b9f13f745aa6706704e534e8c3534e771[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Tue Mar 12 10:40:29 2013 +0100
+
+    installation updated in readme for sf 2.1+
+
+[33mcommit 096a0e5944a3f6dbb3474811ea81e930267425ff[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Fri Feb 1 13:51:25 2013 +0100
+
+    update test for sf2.1 and composer
+
+[33mcommit 6389ff2a17cc57f444c5b7023e938770bab3267b[m
+Author: Marcin Radziwoński <m.radziwonski@epro.com.pl>
+Date:   Fri Sep 21 12:27:36 2012 +0200
+
+    Fix displayGridValue
+
+[33mcommit 0a05f3da8b71a35f70fa020e9c6b176625f248a9[m
+Author: Marcin Radziwoński <m.radziwonski@epro.com.pl>
+Date:   Fri Sep 21 12:22:39 2012 +0200
+
+    Remove orderBy DQL part for count query.
+    
+    ORDER BY is not needed, only increases query execution through unnecessary sorting.
+    Field "as" can be sortable
+
+[33mcommit 6988a20d481ac62a7358acd1f8cbd4bf10783f3e[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Aug 28 18:13:57 2012 +0200
+
+    version file for tag 1.3.0
+
+[33mcommit 5737938f17cd0e97ddf011fc5a79c600befd6e82[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Aug 28 15:44:34 2012 +0200
+
+    update installation of travis env
+
+[33mcommit bdfe095b2c0dd947498bafd7e59a9bf4bc5d9d05[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Aug 28 15:07:04 2012 +0200
+
+    documentation for groupby queries
+
+[33mcommit b7e0d3b683e63ba8321848c8f53676096815be90[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Aug 28 14:53:46 2012 +0200
+
+    added unit tests for groupby requests
+
+[33mcommit f47c56ab5be3d18740dcc919b613f91870447784[m
+Merge: c447bb1 2875227
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue Aug 28 05:52:59 2012 -0700
+
+    Merge pull request #12 from tyx/fix/count-groupby
+    
+    Remove groupby DQL part for count query for paginator
+
+[33mcommit 28752275118d9fb40957766a254bbcf7350ac2d4[m
+Author: Timothée Barray <tim@amicalement-web.net>
+Date:   Tue Aug 14 12:00:00 2012 +0200
+
+    Remove groupby DQL part for count query.
+    
+    If not, query with field used for both group and count failed
+
+[33mcommit af5bf6a090b937ca75ac0655a8ea6834d4dcec55[m
+Author: Timothée Barray <tim@amicalement-web.net>
+Date:   Tue Aug 14 11:58:14 2012 +0200
+
+    Merge branch 'master', remote-tracking branch 'upstream/master'
+
+[33mcommit c447bb119614c89f9f2052a996daa5dd32e425d4[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 24 16:07:07 2012 +0200
+
+    twig version in composer
+
+[33mcommit be3722f5430c8d3b99223096804a3800c1160938[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Tue Jul 17 13:48:44 2012 +0200
+
+    doc : howto render a cell with a twig file
+
+[33mcommit 97197242cbb1b7c160ed560e33e65224393e3970[m
+Merge: 0bf2d01 681afeb
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed Jul 11 05:47:07 2012 -0700
+
+    Merge pull request #11 from tyx/fix/doctrine2.2-compatibility
+    
+    Doctrine 2.2 throw an Exception if no result for getSingleScalarResult
+
+[33mcommit 681afeb9c3fb273959b1f7de562101d87d9c73a1[m
+Author: tyx <tim@amicalement-web.net>
+Date:   Mon Jul 9 17:07:54 2012 +0200
+
+    Doctrine 2.2 throw an Exception if no result for getSingleScalarResult now
+
+[33mcommit 0bf2d01d5f7de96126d507e153fe636d78b66802[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon Jul 9 13:33:26 2012 +0200
+
+    doc for 1.2 tag
+
+[33mcommit cb58b9901a87f98fcb7f1ced1adb72e6194d580f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 6 17:42:18 2012 +0200
+
+    add a test on the fluent interface
+
+[33mcommit e13d5f8bd6391bb3a57c3bc350e8b3496d18c4c6[m
+Author: Benjamin Dulau <benjamin.dulau@anonymation.com>
+Date:   Fri Jul 6 17:08:07 2012 +0200
+
+    Added fluent interface support + Fixed CS + Updated Doc
+
+[33mcommit de49d263bb42679098cdc67e5fb2c331bbf2354f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 6 15:33:35 2012 +0200
+
+    remove dependency with doctrine-bundle (unused)
+
+[33mcommit 23119209f343ca335167136451f4171477e5146b[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 6 15:32:36 2012 +0200
+
+    fix doctrine version for travis
+
+[33mcommit 785d31f9cd8885dc3ccdc8fdac0b36339953e804[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jul 6 14:54:31 2012 +0200
+
+    add links in the readme to the other doc pages
+
+[33mcommit 5dfcd165f077f854e4d1d1855154e845dd5a5289[m
+Merge: 39d7ac3 3ae9121
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed Jul 4 09:51:05 2012 -0700
+
+    Merge pull request #9 from tyx/fix/count-distinct
+    
+    Add distinct clause in count paginator
+
+[33mcommit 3ae91218996f01f922c292fb56ff0b26d2159558[m
+Author: Timothée Barray <tim@amicalement-web.net>
+Date:   Wed Jul 4 18:30:48 2012 +0200
+
+    Add distinct clause in count paginator :
+    Avoid error for query with group by
+
+[33mcommit 39d7ac32e1943e74a52b713bdd5f7784e0a43a74[m
+Merge: 0069f55 98d9f2d
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue Jul 3 08:05:33 2012 -0700
+
+    Merge pull request #8 from tyx/dev/more-custom-template
+    
+    Allow more custom template
+
+[33mcommit 98d9f2d03563cab277d4250a03c51d4cf995b3bf[m
+Author: Timothée Barray <timothee@atipik.fr>
+Date:   Tue Jul 3 16:43:48 2012 +0200
+
+    Add all grid paginator in block "kit_grid_paginator" to allow full customisation
+
+[33mcommit 84e36a192ff0e142d98d32ed7fdf600ee9b9f833[m
+Author: Timothée Barray <timothee@atipik.fr>
+Date:   Tue Jul 3 16:38:47 2012 +0200
+
+    Add all grid template in block "kit_grid_main" to allow full customisation
+
+[33mcommit 0069f55a3f7a43726377635e808490b143d4f536[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 3 15:15:58 2012 +0200
+
+    hum, removed all constraint on sf2 version...
+
+[33mcommit 556ae524826b2619a0a9a7bd9f09de019ddf7980[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue Jul 3 15:14:16 2012 +0200
+
+    remove constraint on sf2.0 and allows sf2.1. but, *not tested* on sf2.1
+
+[33mcommit 32a1125e73c5e47887038d9290d1dcfead86d871[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed Jun 20 14:28:24 2012 +0200
+
+    documentation on multiple action system
+
+[33mcommit 46911b3dee16e1f6d79402261916074d45138e4b[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Sat Jun 9 07:23:48 2012 +0200
+
+    add coverage in travis
+
+[33mcommit 5850624eb54f3c4e6f33c7acd3cf0e53ceb5c103[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 8 23:03:21 2012 +0200
+
+    add a lot of tests
+
+[33mcommit 0dbe1e1e8c14bd92e8d3f50e0e8216eec0e9a048[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 8 23:02:38 2012 +0200
+
+    change for a sqlite in a temp file in order to keep db between tests
+
+[33mcommit 64762375147444125578f1c02c35b7f9e77be7d4[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 8 23:01:58 2012 +0200
+
+    remove unused getDispatcher
+
+[33mcommit 8112060bb509191ab8f882d70db236dfc0511935[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 8 23:01:38 2012 +0200
+
+    small fix in comments
+
+[33mcommit 559795748ffe36bcaa41b6f3c8ca8b35f02f4422[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 18:31:43 2012 +0200
+
+    db tests
+
+[33mcommit 2657a4eb2dad1931f1e58f1cb0ab4983ed90a1bb[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 16:40:21 2012 +0200
+
+    remove unused doctrine injection from the GridManager
+
+[33mcommit dfcbecd72184cc84c7ea6a847eadbef4877177b3[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 16:10:27 2012 +0200
+
+    symfony 2.0 for unit testings
+
+[33mcommit 9b294c954b93694e46937128ec6857864e3b3839[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:57:32 2012 +0200
+
+    try dbUnit, this should be ok
+
+[33mcommit 1c3603b5cca3814127c5bb6be1c6b72f835e4678[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:50:52 2012 +0200
+
+    try dbUnit, this should be ok
+
+[33mcommit 3befe01e8268949c33d0d5ca4bef0269bc126209[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:48:36 2012 +0200
+
+    try dbUnit adding in travis again and again...
+
+[33mcommit 355baff938dcc0676a9dbd2cd0271d5b0c1a6bec[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:45:29 2012 +0200
+
+    try dbUnit adding in travis again...
+
+[33mcommit 1ce1d6b364c0340c24490cd0b2cd32aeb5d2a052[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:42:01 2012 +0200
+
+    try dbUnit adding in travis
+
+[33mcommit af531d4a3ffe19ccaa7ba5499b1e529858b14e85[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Jun 1 15:32:41 2012 +0200
+
+    doctrine2 architecture for unit testing
+
+[33mcommit 75af2b36589c93610ee8d0caee1ee9267c1eac0b[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 16:29:44 2012 +0200
+
+    new callback system receiving the value or the row
+
+[33mcommit 315ef8bcc04477d2e15ef948f8c60ebf8ed212f5[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 16:10:31 2012 +0200
+
+    unit tests and small fixes
+
+[33mcommit 270e075b49a9e892b62b4cc8f8b7193abb6569f4[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 14:39:27 2012 +0200
+
+    travis status in the readme
+
+[33mcommit fca8cab37ed2324c9c0ee2a5857ca34857a8ef1f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 14:13:20 2012 +0200
+
+    travis correction
+
+[33mcommit 80d84ed926d2f0e297b0463894008601bcf1136f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 14:03:35 2012 +0200
+
+    correction for travis-ci
+
+[33mcommit 35b51aa0c0348e22164bbef8b193532061d1eadb[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 31 12:01:30 2012 +0200
+
+    beginning travis-ci
+
+[33mcommit 2ba869f08e2e2599fc4ebae3db0bd5ad7521c12c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 24 10:11:32 2012 +0200
+
+    correct Coding standard following PSR-1 and 2 with Sensio PHP Coding Standard Fixer
+
+[33mcommit 58e292170d865b2dfc59fc35538b453b3a4b9040[m
+Merge: 878ba12 635cab1
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Thu May 24 00:00:19 2012 -0700
+
+    Merge pull request #5 from choomz/master
+    
+    Update documentation - How to select recursive field
+
+[33mcommit 635cab13d0a5fbbee80c36f97ffe5a95aa2a789d[m
+Author: Valentin Ferriere <valentin.ferriere@elokence.com>
+Date:   Wed May 23 17:25:38 2012 +0200
+
+    Update documentation - How to display recursive field
+
+[33mcommit 878ba1264e4adc69859fda3519e40f540991a73a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 11:11:52 2012 +0200
+
+    add version v1.1.1 in docs
+
+[33mcommit c53920e68fe8bd3c43c1411b1bbc815bc3eb357d[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 11:09:41 2012 +0200
+
+    add choomz github in authors
+
+[33mcommit 09c506a7b2d29a37e6245f423c04560457bf45b6[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 10:59:17 2012 +0200
+
+    Refactor documentation
+
+[33mcommit fc888b33df151e9c9926f86bc877c55052f07e98[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 10:42:07 2012 +0200
+
+    Documentation
+
+[33mcommit 28833b70244cbcfcaa4359272b92a00db30bacf9[m
+Merge: dd18cec 56d2326
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed May 23 01:30:39 2012 -0700
+
+    Merge pull request #4 from choomz/master
+    
+    Update empty block syntax
+
+[33mcommit 56d23265404f5b8beac851855275a0416e22b634[m
+Author: Valentin Ferriere <valentin.ferriere@elokence.com>
+Date:   Wed May 23 10:18:40 2012 +0200
+
+    Update empty block syntax
+
+[33mcommit dd18cec3301145dafe28351f0517bee7c10eb099[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 09:47:10 2012 +0200
+
+    blocs around table for adding a form tag if needed
+
+[33mcommit 9759de299e7ab2d298db982ab77529b633a865a3[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 23 09:38:50 2012 +0200
+
+    events doc + modification in the grid.html.twig
+    
+    * added events for modifying the way the grid or the paginator works (see Resources/doc/30-Events.md)
+    * modify the default twig in order to remove the filter form from the table. It is useful if you want add
+    a form around the grid (let's imagine you add checkboxes on the left of the grid)
+    * add documentation in Resources/doc/
+
+[33mcommit 74044d02c3525a6283e189ea2026b3f99baa630a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Tue May 22 22:25:44 2012 +0200
+
+    Event management + documentation update
+    
+    - add event management
+    - code cleaning
+    - doc update
+
+[33mcommit b93a5e94d568de9eea9ed66c0c3c85910c2167ed[m
+Merge: 9230049 934489f
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Tue May 22 07:42:45 2012 -0700
+
+    Merge pull request #2 from choomz/master
+    
+    Remove . in css classes
+
+[33mcommit 934489f4eab4bb3f147504eb7c843b81cc573521[m
+Author: Valentin Ferriere <valentin.ferriere@elokence.com>
+Date:   Tue May 22 16:27:03 2012 +0200
+
+    Remove all . in generated css classes
+
+[33mcommit 923004946110aafa040c396211159d975655fa67[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon May 21 15:11:38 2012 +0200
+
+    small internal refactoring around rootAliases
+    normalization of results
+    documentation update
+
+[33mcommit 5db93011167ee8654a5bfa684fd7d654d0ac800f[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon May 21 11:43:34 2012 +0200
+
+    add twig 1.8 dependency
+
+[33mcommit fc20b1cadc6fcc97b2ba1d63bc9c63992bb4be4a[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Mon May 21 11:28:53 2012 +0200
+
+    add composer.json
+
+[33mcommit 50ed11fea866f7504dec8f1e46275b42a9374459[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 17 13:57:28 2012 +0200
+
+    sort manager
+
+[33mcommit 2eecc8cb6f8ba2e044df1c18cf8ddb911f3f87d4[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 17 11:02:04 2012 +0200
+
+    prefix of a css class name
+
+[33mcommit 19bb7fafbb825b6e331735d2cfff7f4d36e36b89[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu May 17 11:01:48 2012 +0200
+
+    Small corrections on the readme
+
+[33mcommit 6779df2b6bb059b6ef562f09ca68e0f2e1c8fd1f[m
+Merge: e351b84 2c72560
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.com>
+Date:   Wed May 16 10:41:43 2012 -0700
+
+    Merge pull request #1 from choomz/master
+    
+    Optimisation template twig
+
+[33mcommit 2c72560e660f8d64103c1fa60d94339ca5958222[m
+Author: Valentin Ferriere <valentin.ferriere@elokence.com>
+Date:   Wed May 16 17:36:01 2012 +0200
+
+    Optimisation template twig
+
+[33mcommit e351b84cbe85c45302b59d7d1ab410d764eb9050[m
+Author: Sebastien Lefebvre - Kitpages <sebastien.lefebvre@kitpages.fr>
+Date:   Tue May 15 14:59:26 2012 +0200
+
+    modif readme
+
+[33mcommit 75d7f6436eea18f7912cb255f35f6a916adf022f[m
+Author: Sebastien Lefebvre - Kitpages <sebastien.lefebvre@kitpages.fr>
+Date:   Tue May 15 14:21:33 2012 +0200
+
+    add option translatable
+
+[33mcommit a2aca6c811e0fbc5770177a8b5512e710a426af0[m
+Author: Philippe Le Van <philippe.levan@kitpages.fr>
+Date:   Thu May 10 16:14:59 2012 +0200
+
+    small change in readme
+
+[33mcommit 44814b3049a03de8c58d4794828da4414a2880db[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 2 17:06:38 2012 +0200
+
+    updated migration doc
+
+[33mcommit 974be109d130c954776229568566138de7bc2a04[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Wed May 2 17:04:56 2012 +0200
+
+    * add possibility to have a join in jour queryBuilder
+    * remove mandatory name for your entity
+    * you have to add the field name used for counting
+    ** Ex : $gridConfig->setCountFieldName("item.id"); // for count(item.id)
+
+[33mcommit d338a1222437a0302458c4e72b2d77cc6abd01f4[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Apr 27 11:25:31 2012 +0200
+
+    autoEscape parameters for values
+
+[33mcommit a8c7f8f3b7bcd41052f196ba713d76cca8b58c35[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Apr 27 11:09:37 2012 +0200
+
+    change where by andWhere
+
+[33mcommit af7a5ba4cc338aa3cb1725ad0292f7705f5b4d1c[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Fri Apr 27 10:27:57 2012 +0200
+
+    oups, removed debug message...
+
+[33mcommit 072cfbb340c7b2c5088a77746fbd5d9fc434a186[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Apr 26 18:35:40 2012 +0200
+
+    add translation in table
+
+[33mcommit a46da78ba135a4fde91f328b109a1e2c4c5b1745[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Apr 26 18:33:30 2012 +0200
+
+    reference in documentation
+
+[33mcommit 2f6ed0cd53b9204b3023cd7d1f499371fb78c0f7[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Apr 26 18:03:33 2012 +0200
+
+    update readme
+
+[33mcommit cddc845abf2ed5ef113f174aebd7bb56d7fb8655[m
+Author: Philippe Le Van (@plv) <philippe.levan@kitpages.fr>
+Date:   Thu Apr 26 17:56:12 2012 +0200
+
+    first commit
